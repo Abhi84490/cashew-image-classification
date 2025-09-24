@@ -1,0 +1,29 @@
+                                             precision    recall  f1-score   support
+
+                          A-240 (off White)       0.17      0.12      0.14         8
+                          A-320 (Off White)       1.00      0.44      0.61        16
+                                   All Begs       1.00      0.75      0.86         4
+                         DW (Draught Whole)       0.75      0.38      0.50         8
+         KW (Knot Wholes) Single Knot Green       0.55      0.75      0.63         8
+KW-1 (Multiple Black Green Mix Knot Wholes)       0.57      0.50      0.53         8
+                           OW (oily Wholes)       0.88      0.88      0.88         8
+    PKW (Partial Wholes Always Black Knots)       0.58      0.88      0.70         8
+                             RW (Red Whole)       0.67      1.00      0.80         8
+           S 210 (Dull White - Like Yellow)       1.00      1.00      1.00         7
+                                      S-210       0.44      0.88      0.58         8
+                                      S-240       0.62      0.62      0.62         8
+                                      S-320       0.10      0.25      0.14         4
+             SSW (Scrotch Whrinkles Wholes)       0.67      0.25      0.36         8
+                 UW (Unpilled Photri Whole)       1.00      0.50      0.67         8
+                       W-180 (White WHoles)       0.73      1.00      0.84         8
+                                      W-210       0.42      1.00      0.59         8
+                                      W-240       0.80      0.50      0.62         8
+                                      W-320       1.00      0.50      0.67         8
+        WW-180 (Extra White - Super White )       0.67      0.75      0.71         8
+                                     WW-210       0.00      0.00      0.00         8
+                                     WW-240       0.45      0.62      0.53         8
+                                     WWW320       0.33      0.25      0.29         8
+
+                                   accuracy                           0.60       183
+                                  macro avg       0.63      0.60      0.58       183
+                               weighted avg       0.64      0.60      0.58       183
